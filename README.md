@@ -18,7 +18,7 @@ Instale os pacotes necessários:
 
 Nessa mesma página, execute o Cypress.
 
-    npx open cypress
+    npx cypress open
 
 Uma janela do Cypress irá se abrir. Navegue para E2E Testing e selecione o seu navegador preferido.
 
